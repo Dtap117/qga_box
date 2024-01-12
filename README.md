@@ -40,13 +40,7 @@ sh setup.sh
 
 ## Usage
 
-### 1、listen.py
-
-We use the Supervisor to start the script. Supervisor is a client/server system that allows its users monitor and control a number of processes on UNIX-like operating systems.
-
-You can use this tool to ensure the script is running, you also can use other tools.
-
-### 2、Worker and Queue
+### script cmd
 
 python box_class.py -h
 eg: python box_class.py vm_instance_id --cmd_line ps --params a
