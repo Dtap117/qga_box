@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.Python
+env/
+venv
+*.log
+*.log.*
+
+# Pycharm settings
+.idea
+.idea/
+
